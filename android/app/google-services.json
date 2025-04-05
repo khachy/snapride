@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598685230952",
+    "project_id": "snapride-c3f73",
+    "storage_bucket": "snapride-c3f73.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598685230952:android:d297868bcd48f13d92d8dd",
+        "android_client_info": {
+          "package_name": "com.example.snapride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1igjo4sSig-FKIz3CdOiFdm_6xsOGbqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
